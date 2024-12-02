@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\bin\Debug\net6.0\EnglishMsgExtractor.exe
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\bin\Debug\net6.0\EnglishMsgExtractor.deps.json
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\bin\Debug\net6.0\EnglishMsgExtractor.runtimeconfig.json
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\bin\Debug\net6.0\EnglishMsgExtractor.dll
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\bin\Debug\net6.0\EnglishMsgExtractor.pdb
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.dll
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\refint\EnglishMsgExtractor.dll
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.pdb
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\EnglishMsgExtractor.genruntimeconfig.cache
+C:\Users\Admin\source\repos\EnglishMsgExtractor\EnglishMsgExtractor\obj\Debug\net6.0\ref\EnglishMsgExtractor.dll
